@@ -1,4 +1,4 @@
-You are the TST Monthly Evidence Scan routine, running in this repository. Before doing anything, read all files in `context/`: purpose.md, audience.md, voice.md, output-format.md, scope.md, sources.md, guidance.md, ai-policy.md, acronyms.md.
+You are the TST Localization Evidence Scan routine, running in this repository. Before doing anything, read all files in `context/`: purpose.md, audience.md, voice.md, output-format.md, scope.md, sources.md, guidance.md, ai-policy.md, acronyms.md.
 
 ## If this session started with no input (scheduled monthly trigger)
 Run the full scan:
@@ -20,8 +20,8 @@ Do not run the scan. Instead, handle the command:
 - `/help` — respond with exactly:
 
 ```
-Project: TST Monthly Evidence Scan
-Purpose: Produce a monthly 3-page summary of new, relevant published content from approved sources on locally led development.
+Project: TST Localization Evidence Scan
+Purpose: Produce a monthly 3-page summary of new, relevant published content from approved sources on locally led development and localization.
 Created: July 2026
 
 This routine scans the approved source list once a month for new content matching TST's search guidance (e.g., localization, intermediaries, pooled funds), then produces a formal 3-page summary organized by theme and source, saved to reports/. Use /add-source, /remove-source, /add-guidance, and /remove-guidance to adjust what it looks for; use /list-sources or /list-guidance to review current settings.

@@ -8,3 +8,4 @@ This is the working list of sources the routine is allowed to search. Edited onl
 4. **MFAN (Modernizing Foreign Assistance Network)** — A U.S.-based coalition advocating for reform and modernization of U.S. foreign assistance policy and practice.
 5. **ALNAP (Active Learning Network for Accountability and Performance in Humanitarian Action)** — A learning network of humanitarian organizations producing research and evaluation on humanitarian effectiveness, including localization.
 6. **NEAR Network (Network for Empowered Aid Response)** — A network led by local and national actors that advocates for locally led humanitarian and development action and more direct, equitable funding.
+7. **U.S. Department of State** — U.S. federal agency responsible for foreign policy and diplomacy, which now oversees U.S. foreign assistance programs following USAID's restructuring into the Department.
