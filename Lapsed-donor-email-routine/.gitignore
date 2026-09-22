@@ -1,0 +1,4 @@
+donor-lists/*
+!donor-lists/.gitkeep
+drafts/*
+!drafts/.gitkeep
